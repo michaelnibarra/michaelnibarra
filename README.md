@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Network Campus - Cisco Packet Tracer Project](https://github.com/michaelnibarra/NETWORKURL)
+  - [Network Campus - Cisco Packet Tracer Project](https://github.com/michaelnibarra/NetworkCampusProject)
   - [Wifi Bridge Captsone Project](https://github.com/michaelnibarra/CAPSTONEWORKURL)
 
 <h2>📺 Certifications</h2>
