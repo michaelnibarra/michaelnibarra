@@ -4,7 +4,8 @@
 
   - [Network Campus - Cisco Packet Tracer Project](https://github.com/michaelnibarra/NetworkCampusProject)
   - [Wifi Bridge Captsone Project](https://github.com/michaelnibarra/CAPSTONEWORKURL)
-
+  - [PLC Project ](https://github.com/michaelnibarra/PLCURL)
+    
 <h2>📺 Certifications</h2>
 
 - [CompTIA Security +](https://www.youtube.com/watch?v=a83ASGn_V_s)
