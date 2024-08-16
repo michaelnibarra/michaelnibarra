@@ -14,7 +14,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Network Campus Video](https://www.youtube.com/playlist?list=PLe8kUtuiiArrNj36XTezFwfq8FHGPn14P)
-- [PLC Projects Video ](https://www.youtube.com/playlist?list=PLe8kUtuiiAro1hLsWJEeFan8J8ddEyq7v)
+- [PLC Project Video ](https://www.youtube.com/playlist?list=PLe8kUtuiiAro1hLsWJEeFan8J8ddEyq7v)
 
 
 <h2> 🤳 Connect with me:</h2>
