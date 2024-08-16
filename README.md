@@ -6,6 +6,7 @@
   - [Wifi Bridge Captsone Project](https://github.com/michaelnibarra/WiFiBridgeCapstone/tree/main)
  - [High Consequence Event (HCE) - Portfolio](https://github.com/michaelnibarra/NotionalTargetingPortfolio/tree/main)
   - [PLC Project ](https://github.com/michaelnibarra/PLCProjects/tree/main)
+- [DHS Aurora Experiment](https://github.com/michaelnibarra/NetworkCampusProject)
     
 <h2>📺 Certifications</h2>
 
