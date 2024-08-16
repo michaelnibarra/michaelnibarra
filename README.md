@@ -4,7 +4,7 @@
 
   - [Network Campus - Cisco Packet Tracer Project](https://github.com/michaelnibarra/NetworkCampusProject)
   - [Wifi Bridge Captsone Project](https://github.com/michaelnibarra/WiFiBridgeCapstone/tree/main)
- - [High Consequence Event (HCE) - Portfolio](https://github.com/michaelnibarra/NetworkCampusProject)
+ - [High Consequence Event (HCE) - Portfolio](https://github.com/michaelnibarra/NotionalTargetingPortfolio/tree/main)
   - [PLC Project ](https://github.com/michaelnibarra/PLCURL)
     
 <h2>📺 Certifications</h2>
