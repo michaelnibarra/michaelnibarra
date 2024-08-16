@@ -7,6 +7,8 @@
  - [High Consequence Event (HCE) - Portfolio](https://github.com/michaelnibarra/NotionalTargetingPortfolio/tree/main)
   - [PLC Project ](https://github.com/michaelnibarra/PLCProjects/tree/main)
 - [DHS Aurora Experiment](https://github.com/michaelnibarra/AuroraExperiment/tree/main)
+-  [Idaho State University Risk Assesment](https://github.com/michaelnibarra/AuroraExperiment/tree/main)
+  
     
 <h2>📺 Certifications</h2>
 
